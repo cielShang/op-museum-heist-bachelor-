@@ -1,0 +1,958 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.11965790390968323,
+        0.059997785836458206,
+        0.03261182829737663
+      ],
+      "min": [
+        -0.00023154499649535865,
+        -0.059888992458581924,
+        -0.00987596157938242
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.9992259740829468,
+        0.9990106821060181,
+        0.9992254972457886
+      ],
+      "min": [
+        -0.9992262125015259,
+        -0.9993809461593628,
+        0.015725895762443542
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.81640625,
+        0.95672607421875
+      ],
+      "min": [
+        0.611328125,
+        0.7518310546875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 224,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.99169921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 138,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 672,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.3275509476661682,
+        0.009653930552303791,
+        0.3468249440193176
+      ],
+      "min": [
+        0.2660602629184723,
+        -0.004590149037539959,
+        0.3264097571372986
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 912,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9750471711158752,
+        0.9959309101104736,
+        0.9970070719718933
+      ],
+      "min": [
+        -0.9750482439994812,
+        0.07065474987030029,
+        -0.9964236617088318
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 448,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.822265625,
+        0.7470703125
+      ],
+      "min": [
+        0.7138671875,
+        0.695068359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 608,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 552,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1152,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.3275509476661682,
+        0.009653930552303791,
+        0.3468249440193176
+      ],
+      "min": [
+        0.2660602629184723,
+        -0.004590149037539959,
+        0.3264097571372986
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1392,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9750471711158752,
+        0.9959309101104736,
+        0.9970070719718933
+      ],
+      "min": [
+        -0.9750482439994812,
+        0.07065474987030029,
+        -0.9964236617088318
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 768,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.822265625,
+        0.7470703125
+      ],
+      "min": [
+        0.7138671875,
+        0.695068359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 928,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 912,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1632,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.3275509476661682,
+        0.009653930552303791,
+        0.3468249440193176
+      ],
+      "min": [
+        0.2660602629184723,
+        -0.004590149037539959,
+        0.3264097571372986
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1872,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9750471711158752,
+        0.9959309101104736,
+        0.9970070719718933
+      ],
+      "min": [
+        -0.9750482439994812,
+        0.07065474987030029,
+        -0.9964236617088318
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1088,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.822265625,
+        0.7470703125
+      ],
+      "min": [
+        0.7138671875,
+        0.695068359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1248,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1272,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2112,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.3275509476661682,
+        0.009653930552303791,
+        0.3468249440193176
+      ],
+      "min": [
+        0.2660602629184723,
+        -0.004590149037539959,
+        0.3264097571372986
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2352,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9750471711158752,
+        0.9959309101104736,
+        0.9970070719718933
+      ],
+      "min": [
+        -0.9750482439994812,
+        0.07065474987030029,
+        -0.9964236617088318
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1408,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.822265625,
+        0.7470703125
+      ],
+      "min": [
+        0.7138671875,
+        0.695068359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1568,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1632,
+      "componentType": 5125,
+      "count": 90,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2592,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        0.33518707752227783,
+        0.391082763671875,
+        0.491047203540802
+      ],
+      "min": [
+        -0.27069777250289917,
+        -0.0883966013789177,
+        -2.8621939442926333e-16
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10848,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1728,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        0.99755859375,
+        0.9980239868164063
+      ],
+      "min": [
+        0.0004887580871582031,
+        0.0009765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7232,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        0.99169921875,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1992,
+      "componentType": 5125,
+      "count": 1524,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "manielp68 (https://sketchfab.com/manielp68)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fnaf-3-maintenance-panel-help-wanted-db8dbb2802c94936918610264caf18a3",
+      "title": "fnaf 3 maintenance panel help wanted"
+    },
+    "generator": "Sketchfab-15.46.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8088,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12736,
+      "byteOffset": 8088,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19104,
+      "byteOffset": 20824,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 39928,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/ENV_MAT_Monitor_Laptop_Blue_White.002_baseColor.png"
+    },
+    {
+      "uri": "textures/material_0_baseColor.png"
+    },
+    {
+      "uri": "textures/material_0_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "ENV_MAT_Monitor_Laptop_Blue_White.002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ENV_MAT_Monitor_Laptop_Green.004",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ENV_MAT_Monitor_Laptop_Green.003",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ENV_MAT_Monitor_Laptop_Green.002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ENV_MAT_Monitor_Laptop_Green.001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Button_Recharge_ENV_MAT_Monitor_Laptop_Blue_White.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.003_ENV_MAT_Monitor_Laptop_Green.004_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.002_ENV_MAT_Monitor_Laptop_Green.003_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.001_ENV_MAT_Monitor_Laptop_Green.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Button_01_ENV_MAT_Monitor_Laptop_Green.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ENV_MOD_Monitor_Laptop__Base_ENV_MAT_Monitor_Laptop_Green_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TEXCOORD_0": 27,
+            "TEXCOORD_1": 28
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2e0abffbca504c5ca8055fdbc109efb6.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -29.086477364379697,
+        -5.518905590722295,
+        -95.51711910171437,
+        0.0,
+        56.63932069164076,
+        79.46722539115298,
+        -21.839126361216156,
+        0.0,
+        77.11007920637729,
+        -60.452475336912016,
+        -19.988344364310564,
+        0.0,
+        407.6245422363281,
+        590.38623046875,
+        -100.54539489746094,
+        1.0
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "name": "Object_5"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.11093191206259899,
+        5.613664811804226e-06,
+        -80.96340972120034,
+        0.0,
+        -79.74819154716519,
+        -13.97502273594617,
+        -0.10926785140867645,
+        0.0,
+        -13.975006992032268,
+        79.7482513746357,
+        -0.019142308508240707,
+        0.0,
+        -12.762763977050781,
+        10.041343688964844,
+        7.465876579284668,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Button_Recharge"
+    },
+    {
+      "mesh": 0,
+      "name": "ENV_MOD_Monitor_Laptop__Button_Recharge_ENV_MAT_Monitor_Laptop_Blue_White.002_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.11091262992668036,
+        -8.988754293844103e-15,
+        -80.96342500642102,
+        0.0,
+        -80.96342500516998,
+        0.0004500862400830597,
+        -0.110912629924968,
+        0.0,
+        0.0004500856905217631,
+        80.96347808712787,
+        6.165770085108098e-07,
+        0.0,
+        0.5502209067344666,
+        -2.1736860275268555,
+        2.2121713161468506,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.003"
+    },
+    {
+      "mesh": 1,
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.003_ENV_MAT_Monitor_Laptop_Green.004_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        0.11091262992668036,
+        -8.988754293844103e-15,
+        -80.96342500642102,
+        0.0,
+        -80.96342500516998,
+        0.0004500862400830597,
+        -0.110912629924968,
+        0.0,
+        0.0004500856905217631,
+        80.96347808712787,
+        6.165770085108098e-07,
+        0.0,
+        0.5502209067344666,
+        1.5578031539916992,
+        2.2121713161468506,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.002"
+    },
+    {
+      "mesh": 2,
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.002_ENV_MAT_Monitor_Laptop_Green.003_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        0.11091262992668036,
+        -8.988754293844103e-15,
+        -80.96342500642102,
+        0.0,
+        -80.96342500516998,
+        0.0004500862400830597,
+        -0.110912629924968,
+        0.0,
+        0.0004500856905217631,
+        80.96347808712787,
+        6.165770085108098e-07,
+        0.0,
+        0.5502209067344666,
+        -9.011441230773926,
+        2.2121713161468506,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.001"
+    },
+    {
+      "mesh": 3,
+      "name": "ENV_MOD_Monitor_Laptop__Button_01.001_ENV_MAT_Monitor_Laptop_Green.002_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        0.11091262992668036,
+        -8.988754293844103e-15,
+        -80.96342500642102,
+        0.0,
+        -80.96342500516998,
+        0.0004500862400830597,
+        -0.110912629924968,
+        0.0,
+        0.0004500856905217631,
+        80.96347808712787,
+        6.165770085108098e-07,
+        0.0,
+        0.5502209067344666,
+        5.216360092163086,
+        2.2121713161468506,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Button_01"
+    },
+    {
+      "mesh": 4,
+      "name": "ENV_MOD_Monitor_Laptop__Button_01_ENV_MAT_Monitor_Laptop_Green.001_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "matrix": [
+        0.11093193311144792,
+        0.0,
+        -80.96342497997507,
+        0.0,
+        -80.96342497877711,
+        0.0004404346386700772,
+        -0.11093193310979849,
+        0.0,
+        0.00044043410074062333,
+        80.96347808718095,
+        6.034602264481268e-07,
+        0.0,
+        0.25528520345687866,
+        5.179131031036377,
+        2.3366293907165527,
+        1.0
+      ],
+      "name": "ENV_MOD_Monitor_Laptop__Base"
+    },
+    {
+      "mesh": 5,
+      "name": "ENV_MOD_Monitor_Laptop__Base_ENV_MAT_Monitor_Laptop_Green_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diamond
+* source:	https://sketchfab.com/3d-models/diamond-9f060239b2604a50a2db83877c161b3e
+* author:	Akshat (https://sketchfab.com/shooter24994)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diamond" (https://sketchfab.com/3d-models/diamond-9f060239b2604a50a2db83877c161b3e) by Akshat (https://sketchfab.com/shooter24994) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

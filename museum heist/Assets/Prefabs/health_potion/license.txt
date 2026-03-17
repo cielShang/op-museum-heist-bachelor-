@@ -1,0 +1,11 @@
+Model Information:
+* title:	Health Potion
+* source:	https://sketchfab.com/3d-models/health-potion-f35ce76caa4d4676ac57a1be1972d224
+* author:	J_Son (https://sketchfab.com/rebro.edge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Health Potion" (https://sketchfab.com/3d-models/health-potion-f35ce76caa4d4676ac57a1be1972d224) by J_Son (https://sketchfab.com/rebro.edge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

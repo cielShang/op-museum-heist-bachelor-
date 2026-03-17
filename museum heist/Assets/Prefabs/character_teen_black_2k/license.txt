@@ -1,0 +1,11 @@
+Model Information:
+* title:	Character Teen Black 2k
+* source:	https://sketchfab.com/3d-models/character-teen-black-2k-058c9393f51648a0861c732d32a90065
+* author:	samsikua (https://sketchfab.com/samsikua)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Character Teen Black 2k" (https://sketchfab.com/3d-models/character-teen-black-2k-058c9393f51648a0861c732d32a90065) by samsikua (https://sketchfab.com/samsikua) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

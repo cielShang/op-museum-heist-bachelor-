@@ -1,0 +1,11 @@
+Model Information:
+* title:	Power control panel (magical)
+* source:	https://sketchfab.com/3d-models/power-control-panel-magical-b50870ee9db34d60b741df3a8cb5dbb9
+* author:	reddification (https://sketchfab.com/reddification)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Power control panel (magical)" (https://sketchfab.com/3d-models/power-control-panel-magical-b50870ee9db34d60b741df3a8cb5dbb9) by reddification (https://sketchfab.com/reddification) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

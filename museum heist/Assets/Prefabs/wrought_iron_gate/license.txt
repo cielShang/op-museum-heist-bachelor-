@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wrought Iron Gate
+* source:	https://sketchfab.com/3d-models/wrought-iron-gate-7d5aaa6d438e44a8913123f1f061af5c
+* author:	TeenWolf (https://sketchfab.com/Teen-Wolf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wrought Iron Gate" (https://sketchfab.com/3d-models/wrought-iron-gate-7d5aaa6d438e44a8913123f1f061af5c) by TeenWolf (https://sketchfab.com/Teen-Wolf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

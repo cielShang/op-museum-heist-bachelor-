@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 90acb7e1eb6ed4311ab083dd5235a3c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets/Prefabs/character_teen_black_2k/scene.bin
+    assetPath: Assets/Prefabs/character_teen_black_2k/scene.bin
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_diffuse.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_diffuse.png
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_specularGlossiness.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_specularGlossiness.png
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_normal.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial0mat_normal.png
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_diffuse.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_diffuse.png
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_specularGlossiness.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_specularGlossiness.png
+  - type: 1
+    originalUri: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_normal.png
+    assetPath: Assets/Prefabs/character_teen_black_2k/textures/PackedMaterial1mat_normal.png
+  reportItems: []
