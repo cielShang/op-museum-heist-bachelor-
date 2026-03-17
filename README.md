@@ -3,7 +3,7 @@ Unity project for the bachelor thesis "Operation: Museum Heist"
 
 # Operation: Museum Heist
 
-This repository contains the Unity project for the bachelor thesis **“Operation: Museum Heist” a stealth game developed to investigate how LLM-based NPC companions influence player decision-making and risk-taking behavior in collaborative gameplay.
+This repository contains the Unity project for the bachelor thesis “Operation: Museum Heist” a stealth game developed to investigate how LLM-based NPC companions influence player decision-making and risk-taking behavior in collaborative gameplay.
 
 The project was implemented in **Unity 6000.0.44f1** using the **High Definition Render Pipeline (HDRP)**.
 
